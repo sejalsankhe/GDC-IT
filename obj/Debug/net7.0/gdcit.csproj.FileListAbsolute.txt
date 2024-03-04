@@ -1,0 +1,15 @@
+/Users/sejalsankhe/Documents/c#/gdcit/bin/Debug/net7.0/gdcit
+/Users/sejalsankhe/Documents/c#/gdcit/bin/Debug/net7.0/gdcit.deps.json
+/Users/sejalsankhe/Documents/c#/gdcit/bin/Debug/net7.0/gdcit.runtimeconfig.json
+/Users/sejalsankhe/Documents/c#/gdcit/bin/Debug/net7.0/gdcit.dll
+/Users/sejalsankhe/Documents/c#/gdcit/bin/Debug/net7.0/gdcit.pdb
+/Users/sejalsankhe/Documents/c#/gdcit/obj/Debug/net7.0/gdcit.csproj.AssemblyReference.cache
+/Users/sejalsankhe/Documents/c#/gdcit/obj/Debug/net7.0/gdcit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sejalsankhe/Documents/c#/gdcit/obj/Debug/net7.0/gdcit.AssemblyInfoInputs.cache
+/Users/sejalsankhe/Documents/c#/gdcit/obj/Debug/net7.0/gdcit.AssemblyInfo.cs
+/Users/sejalsankhe/Documents/c#/gdcit/obj/Debug/net7.0/gdcit.csproj.CoreCompileInputs.cache
+/Users/sejalsankhe/Documents/c#/gdcit/obj/Debug/net7.0/gdcit.dll
+/Users/sejalsankhe/Documents/c#/gdcit/obj/Debug/net7.0/refint/gdcit.dll
+/Users/sejalsankhe/Documents/c#/gdcit/obj/Debug/net7.0/gdcit.pdb
+/Users/sejalsankhe/Documents/c#/gdcit/obj/Debug/net7.0/gdcit.genruntimeconfig.cache
+/Users/sejalsankhe/Documents/c#/gdcit/obj/Debug/net7.0/ref/gdcit.dll
